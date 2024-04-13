@@ -5,7 +5,7 @@ PetriNet in Mathematical Modeling
 
 
 ## Instruction
-1. When you run the file [PetriNet.cpp] you will see like the image below, then type in your choice:
+1. When you run the file PetriNet.cpp you will see like the image below, then type in your choice:
 ![image](https://github.com/WinerDeCoder/PetriNet-Mathematical-Modeling/assets/136697023/b5b10bf4-7e9e-483c-a223-e05d18c64fe0)
 
 > [!NOTE]
